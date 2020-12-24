@@ -1,3 +1,12 @@
+<?php
+  /*// Inits session management
+  session_start();
+  // Opens database connection
+  require_once 'assets/config/db.php';
+  // Processes form data to database
+  require_once 'assets/functions/session.login.php';*/
+?>
+
 <!DOCTYPE html>
 <html lang="sv">
 <head>
@@ -15,7 +24,7 @@
 <body>
   <!-- HEADER -->
   <header class="sticky-top">
-    <nav class="navbar navbar-expand-md navbar-light"> 
+    <nav class="navbar navbar-expand-md navbar-light">
       <div class="container">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggle">
           <span class="navbar-toggler-icon"></span>
@@ -34,7 +43,7 @@
       </div>
     </nav>
   </header>
-  <main>  
+  <main>
     <!-- CAROUSEL -->
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
