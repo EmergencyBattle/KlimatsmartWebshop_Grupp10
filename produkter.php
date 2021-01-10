@@ -14,7 +14,7 @@
 </head>
 <body>
   <header class="sticky-top">
-    <nav class="navbar navbar-expand-md navbar-light"> 
+    <nav class="navbar navbar-expand-md navbar-light">
       <div class="container">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggle">
           <span class="navbar-toggler-icon"></span>
@@ -36,7 +36,7 @@
   <main class="container d-flex">
     <section>
       <ul class="product-list mt-5 pt-5">
-        <h6>PRODUKTKATEGORIER</h6> 
+        <h6>PRODUKTKATEGORIER</h6>
         <li>Nyheter</li>
         <li>Köksartiklar</li>
         <li>Hudvård</li>
@@ -45,14 +45,14 @@
         <li>Hushåll</li>
       </ul>
       <ul class="sort-list pt-4">
-        <h6>SORTERA EFTER</h6> 
+        <h6>SORTERA EFTER</h6>
         <li><input type="checkbox" class="mr-2">Nyligen tillagd</li>
         <li><input type="checkbox" class="mr-2">Kampanj</li>
         <li><input type="checkbox" class="mr-2">Popularitet</li>
         <li><input type="checkbox" class="mr-2">Lägsta pris</li>
       </ul>
     </section>
-    
+
     <section class="mt-5 pt-3">
       <h6 class="ml-5 container clearfix">
         Visar alla - 247 artiklar hittades
@@ -77,7 +77,7 @@
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/400/300/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/tandborste.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
             <h6 class="card-title mt-n3 ml-n3">Produkt 3</h6>
             <div class="d-flex justify-content-between">
@@ -88,7 +88,7 @@
       </div>
       <div class="card-deck ml-5">
         <div class="card border-0 mt-3">
-          <img src="https://unsplash.it/400/300/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/organicup.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
             <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
             <div class="d-flex justify-content-between">
@@ -116,10 +116,10 @@
         </div>
       </div>
       <div class="d-flex justify-content-center ml-5">
-       <a class="btn btn-secondary btn-sm mt-3 button-view-more rounded-0" href="#" role="button">Visa fler</a>  
+       <a class="btn btn-secondary btn-sm mt-3 button-view-more rounded-0" href="#" role="button">Visa fler</a>
       </div>
-    </section> 
-  
+    </section>
+
   </main>
   <footer class="mt-5">
     <div class="container d-flex justify-content-between pt-3">
@@ -134,7 +134,7 @@
       </section>
       <section>
         <ul class="footer-links">
-          <h6>PRESENTKORT &amp; RABATT</h6> 
+          <h6>PRESENTKORT &amp; RABATT</h6>
           <li>Frågor om presentkort</li>
           <li>Köp presentkort</li>
           <li>Studentrabatt</li>
@@ -152,8 +152,8 @@
     </div>
   </footer>
 
-  
-  
+
+
   <!--jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>

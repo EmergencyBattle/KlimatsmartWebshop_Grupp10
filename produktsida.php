@@ -15,7 +15,7 @@
 <body>
   <!-- HEADER -->
   <header class="sticky-top">
-    <nav class="navbar navbar-expand-md navbar-light"> 
+    <nav class="navbar navbar-expand-md navbar-light">
       <div class="container">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-toggle">
           <span class="navbar-toggler-icon"></span>
@@ -67,7 +67,7 @@
           Standard används för att rengöra öronen medan make-up är din <br>
           partner in crime vid bland annat eyelinerapplikation!<br>
           <br>
-          Det medföljande fodralet är majsbaserat och därmed nedbrytbart.<br> 
+          Det medföljande fodralet är majsbaserat och därmed nedbrytbart.<br>
           Den nätta designen gör att LastSwab är mycket resevänlig.<br>
           <br>
           En LastSwab håller i upp till 1000 användningar och hjälper till att <br>
@@ -80,52 +80,52 @@
         <a class="btn btn-outline-dark mt-5 rounded-0" href="produkter.php" role="button">LÄGG I VARUKORG</a>
       </section>
     </div>
-  
+
     <!-- CARDS SIMILAR PRODUCTS -->
     <section class="container mt-5">
       <h5 class="mb-3">Liknande produkter</h5>
       <div class="card-deck">
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/pads.jpg" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
-            <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
+            <h6 class="card-title mt-n3 ml-n3">Tvättbara bomullsrondeller</h6>
             <div class="d-flex justify-content-between">
-              <p class="card-text mt-n2 ml-n3">123 kr</p>
+              <p class="card-text mt-n2 ml-n3">65 kr</p>
             </div>
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/tandborste.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
-            <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
+            <h6 class="card-title mt-n3 ml-n3">Bambutandborste med fodral</h6>
             <div class="d-flex justify-content-between">
-              <p class="card-text mt-n2 ml-n3">123 kr</p>
+              <p class="card-text mt-n2 ml-n3">85 kr</p>
             </div>
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/kasse.jpg" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
-            <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
+            <h6 class="card-title mt-n3 ml-n3">Återanvändbar fruktpåse</h6>
             <div class="d-flex justify-content-between">
-              <p class="card-text mt-n2 ml-n3">123 kr</p>
+              <p class="card-text mt-n2 ml-n3">120 kr</p>
             </div>
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/organicup.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
-            <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
+            <h6 class="card-title mt-n3 ml-n3">OrganiCup Menskopp - Vit</h6>
             <div class="d-flex justify-content-between">
-              <p class="card-text mt-n2 ml-n3">123 kr</p>
+              <p class="card-text mt-n2 ml-n3">150 kr</p>
             </div>
           </div>
         </div>
       </div>
     </section>
-  
-  
-  
+
+
+
   </main>
   <!-- FOOTER -->
   <footer class="mt-5">

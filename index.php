@@ -61,7 +61,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://unsplash.it/1000/300/?random" class="d-block w-100" alt="...">
+          <img src="assets/images/karusell2.png" class="d-block w-100" alt="...">
           <div class="carousel-caption mx-auto">
             <h5>rubrik</h5>
             <p>text.</p>
@@ -89,7 +89,7 @@
       <h5 class="mb-3">Nyheter</h5>
       <div class="card-deck">
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/400/450/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/kasse.jpg" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
             <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
             <div class="d-flex justify-content-between">
@@ -143,7 +143,7 @@
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/tandborste.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
             <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
             <div class="d-flex justify-content-between">
@@ -152,7 +152,7 @@
           </div>
         </div>
         <div class="card border-0 mt-2">
-          <img src="https://unsplash.it/250/350/?random" class="rounded-0 card-img-top" alt="...">
+          <img src="assets/images/organicup.png" class="rounded-0 card-img-top" alt="...">
           <div class="card-body">
             <h6 class="card-title mt-n3 ml-n3">Produkt 1</h6>
             <div class="d-flex justify-content-between">
